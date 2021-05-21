@@ -10,3 +10,6 @@ Frontend :
 1. HTML
 2. CSS
 3. JAVA SCRIPT
+
+Backend :
+1. Instamozo
